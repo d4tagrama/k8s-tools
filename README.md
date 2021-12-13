@@ -6,4 +6,5 @@
     - [DevSpace](https://devspace.sh) It's a client-only, open-source developer tool for kubernets: Build, test and debug applications directly inside k8s.
     - [Kaniko](https://github.com/GoogleContainerTools/kaniko) is a tool to build container images from a Dockerfile, inside a container or Kubernetes cluster.
     - [Krew](https://krew.sigs.k8s.io/)  is the plugin manager for kubectl command-line tool.
+    - [Cluster API](https://cluster-api.sigs.k8s.io/) is a Kubernetes sub-project focused on providing declarative APIs and tooling to simplify provisioning, upgrading, and operating multiple Kubernetes clusters.
     - [Troubleshoot](https://troubleshoot.sh)  A kubectl plugin providing diagnostic tools for Kubernetes applications.
