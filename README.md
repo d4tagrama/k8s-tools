@@ -8,3 +8,5 @@
     - [Krew](https://krew.sigs.k8s.io/)  is the plugin manager for kubectl command-line tool.
     - [Cluster API](https://cluster-api.sigs.k8s.io/) is a Kubernetes sub-project focused on providing declarative APIs and tooling to simplify provisioning, upgrading, and operating multiple Kubernetes clusters.
     - [Troubleshoot](https://troubleshoot.sh)  A kubectl plugin providing diagnostic tools for Kubernetes applications.
+- **General documentation**
+    - [Landscape](https://landscape.cncf.io/)  is CNCF's recommended path through the cloud native landscape. The cloud native landscape (png, pdf), serverless landscape (png, pdf), and member landscape (png, pdf) are dynamically generated below. 
