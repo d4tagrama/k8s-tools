@@ -10,3 +10,7 @@
     - [Troubleshoot](https://troubleshoot.sh)  A kubectl plugin providing diagnostic tools for Kubernetes applications.
 - **General documentation**
     - [Landscape](https://landscape.cncf.io/)  is CNCF's recommended path through the cloud native landscape. The cloud native landscape (png, pdf), serverless landscape (png, pdf), and member landscape (png, pdf) are dynamically generated below. 
+
+- **Administration**
+    - [Portainer](https://www.portainer.io/)  can be deployed on top of any K8s, Docker or Swarm environment. It works seamlessly in the cloud, on prem and at the edge to give you a consolidated view of all your containers. 
+
